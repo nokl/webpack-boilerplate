@@ -28,8 +28,8 @@
     "not dead"
   ],
   "devDependencies": {
-    "@babel/core": "7.14.5",
-    "@babel/preset-env": "7.14.5",
+    "@babel/core": "7.14.8",
+    "@babel/preset-env": "7.14.8",
     "@types/node": "14.17.0",
     "@types/stylelint": "13.13.0",
     "@typescript-eslint/eslint-plugin": "4.26.1",
